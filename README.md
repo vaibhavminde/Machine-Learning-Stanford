@@ -1,6 +1,6 @@
 # Coursera Machine Learning Assigments
 
-Assignments were completed with GNU Octave, version 3.8.0
+Assignments were completed with GNU Octave, version 3.8.0 - Vaibhav Minde
 
 # Course Schedule
 
